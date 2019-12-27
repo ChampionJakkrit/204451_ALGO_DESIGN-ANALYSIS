@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6117B2F3
+eax=00000001 ebx=00403060 ecx=40180000 edx=00000000 esi=0061CBE8 edi=00000002
+ebp=611BECD0 esp=0061B660 program=C:\Users\OME\Desktop\Source Code\204451\HW03\HW03_600510533.exe, pid 8520, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
